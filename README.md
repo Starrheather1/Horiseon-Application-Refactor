@@ -6,7 +6,7 @@ The ultimate goal as a front-end and junior developers is to take existing code 
 
 
 Link to completed application below.
-file:///Users/heatherstarr/Documents/bootcamp/challenge-week-1/index.html
+https://starrheather1.github.io/Horiseon-Application-Refactor/
 
 
 ## Installation
@@ -24,3 +24,8 @@ N/A
 ## License
 
 Please refer to the license in the repo.
+
+## Screenshots
+
+![Landing Page](./assets/images/Screenshot-1.png)
+![Landing Page](./assets/images/Screenshot-2.png)
